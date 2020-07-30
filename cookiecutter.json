@@ -1,0 +1,9 @@
+{
+    "project_dir": "plugin_directory",
+    "id": "plugin.id",
+    "name": "Plugin name",
+    "description": "Plugin description",
+    "frontend_language": "javascript",
+    "webapp": "true",
+    "server": "true"
+}
